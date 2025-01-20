@@ -1,4 +1,4 @@
-# CSCE_636_Deep_Learning
+# CSCE 636 Deep Learning
 
 This repository contains coursework for the CSCE 636 Deep Learning course at Texas A&M University. Covering topics covers:
 - Neural network models: functional equivalence, convergence properties, and associative memory
